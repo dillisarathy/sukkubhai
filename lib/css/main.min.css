@@ -8471,15 +8471,15 @@ a.btn[disabled] {
 
 .btn-brand {
     font-family: priori-sans;
-    color: #fff;
-    background-color: #000;
-    border-color: #000
+    color: #fff !important;
+    background-color: #DE3511 !important;
+    border-color: #DE3511 !important;
 }
 
 .btn-brand:hover {
-    color: #fff;
-    background-color: #333;
-    border-color: #333
+    color: #000000 !important;
+    background-color: #61FC02 !important;
+    border-color: #61FC02 !important;
 }
 
 .btn-brand.focus,
